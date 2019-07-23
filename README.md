@@ -28,12 +28,11 @@ This is a web application for a pizza company where a user can choose to order a
 * Open in web browser
 
 ## Technologies Used
-*_HTML
-*CSS
-*Bootstrap
-*JavaScript
-*J-query
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* J-query
 
 ### License
-*This software is licensed under the MIT license*
 Copyright (c) 2019 **Drew Stanger**
