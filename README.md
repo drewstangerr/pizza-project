@@ -1,8 +1,8 @@
 # _Drew's Pizza Pavilion_
 
-#### A web application for Drews Pizza Pavilion that allows a user to order pizza and view the cost after ordering what type and size of pizza they want.
+#### A web application for Drew's Pizza Pavilion that allows a user to order pizza and view the cost after ordering what type and size of pizza they want.
 
-#### By **Drew Stanger**_
+#### By **Drew Stanger**
 
 ## Description
 
@@ -20,7 +20,6 @@ This is a web application for a pizza company where a user can choose to order a
 |The program calculates the base cost of the pizza based on the size selected.  Small = $12, Medium = $15, Large = $18 | Size = Large | Not displayed(Cost = $18)|
 |The program updates the cost of the pizza based on the number of toppings selected.  Each topping is $1 added to the base cost. | Size = Large, Toppings = Salami, Pepperoni, Jalapenos, Banana peppers | Not displayed(Cost = $22)|
 |The program displays the final cost of the pizza | Name = Drew, Size = Large, Toppings = Salami, Pepperoni, Jalapenos, Banana peppers| "Order confirmation for Drew: Total Cost = $22" |
-|The program allows the customer to order multiple pizzas| Name = Drew, Number of Pizzas = 2, PizzaOne Size = Large, PizzaOne Toppings = Salami, Pepperoni Size = Medium, PizzaTwo Toppings = Jalapeno, Banana Peppers, Salami| "Order confirmation for Drew: Total Cost = $37"|
 
 ## Setup/Installation Requirements
 
