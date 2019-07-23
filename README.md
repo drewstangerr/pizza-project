@@ -1,8 +1,8 @@
 # _Drew's Pizza Pavilion_
 
-#### _A web application for Drews Pizza Pavilion that allows a user to order pizza and view the cost after ordering what type and size of pizza they want.
+#### A web application for Drews Pizza Pavilion that allows a user to order pizza and view the cost after ordering what type and size of pizza they want.
 
-#### By _**Drew Stanger**_
+#### By **Drew Stanger**_
 
 ## Description
 
