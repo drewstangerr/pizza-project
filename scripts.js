@@ -28,8 +28,6 @@ Pizza.prototype.singlePieCost = function () {
   }
 }
 
-//UI LOGIC
-$(document).ready(function()
 
 
   //Submit Order Pizza Form
